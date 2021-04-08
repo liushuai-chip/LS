@@ -1,0 +1,6 @@
+hello world
+fgs
+g
+sggs
+:wq
+
